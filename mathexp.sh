@@ -6,4 +6,4 @@ read num2
 
 echo "Addition"
 echo "$num1 + $num2"
-echo `expr num1 + num2`
+echo `expr $num1 + $num2`
