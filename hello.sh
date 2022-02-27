@@ -1,3 +1,4 @@
 #!/bin/bash
-
-echo "Hi Nilesh"
+echo "Enter your name : "
+read name
+echo "Hi $name"
